@@ -1,1 +1,1 @@
-document.getElementById("Lemuel").innerHTML = "Lemuel C Reyes";
+document.getElementById("Lemuel").innerHTML = "Lemuell C Reyes";
